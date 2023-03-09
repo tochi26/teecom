@@ -28,9 +28,3 @@ To customize the landing page, you can edit the following files:
 ## Screenshot
 
 ![Bootstrap landing page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ktr3h3fvui04mfxivr7d.png)
-
-## License
-
-This landing page template is licensed under the MIT License. See the LICENSE file for more information.
-
-
