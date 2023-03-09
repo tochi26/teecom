@@ -17,14 +17,6 @@ This landing page template includes the following features:
 - Font Awesome icons
 - Google Fonts
 
-## Customization
-
-To customize the landing page, you can edit the following files:
-
-- index.html - Change the content and structure of the page
-- style.css - Change the styles of the page
-- variables.css - Change the color scheme of the page
-
 ## Screenshot
 
 ![Bootstrap landing page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ktr3h3fvui04mfxivr7d.png)
