@@ -17,10 +17,8 @@ This landing page template includes the following features:
 - Font Awesome icons
 - Google Fonts
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 36f963494dbd18084205916d6a3ffd437647a8c0
-## Screenshot
+## Screenshot 
 
-![Bootstrap landing page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ktr3h3fvui04mfxivr7d.png)
+![Bootstrap Landing Page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dbrbmsnd08exbn5lj1ek.png)
+
